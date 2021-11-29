@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xta1neR
+- 👋 Hi, I’m @Rituraj Goswami
 - 👀 I’m interested in Web Development and Competitive Coding
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on projects related to e-commerce website development and UI/UX designing
