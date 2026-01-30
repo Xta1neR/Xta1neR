@@ -16,11 +16,10 @@ I help businesses turn raw data into actionable insights that increase revenue, 
 ---
 
 ## 🛠 Tech Stack
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL (MySQL)  
-- Excel (Advanced)  
-- Tableau  
-- Git & GitHub  
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![Tableau](https://img.shields.io/badge/Tableau-lightblue)
+![Excel](https://img.shields.io/badge/Excel-green)
 
 ---
 
