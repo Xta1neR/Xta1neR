@@ -1,10 +1,52 @@
-- 👋 Hi, I’m @Rituraj Goswami
-- 👀 I’m interested in Web Development and Competitive Coding
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on projects related to e-commerce website development and UI/UX designing
-- 📫 How to reach me ? Just email me at goswami.rituraj03@gmail.com
+# 👋 Hi, I'm Rituraj Goswami  
+### Data Analyst | Junior Data Scientist | Python • SQL • Tableau • Excel
 
-<!---
-Xta1neR/Xta1neR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I help businesses turn raw data into actionable insights that increase revenue, reduce costs, and improve decision-making.
+
+---
+
+## 🚀 What I Do
+- 📊 Data Cleaning & Preprocessing  
+- 📈 Exploratory Data Analysis (EDA)  
+- 📉 Interactive Dashboards (Tableau, Excel)  
+- 🧮 SQL Data Analysis  
+- 🤖 Basic Machine Learning Models  
+- 🌐 Web Scraping & Automation  
+
+---
+
+## 🛠 Tech Stack
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (MySQL)  
+- Excel (Advanced)  
+- Tableau  
+- Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+🔹 Sales Performance Dashboard  
+🔹 Customer Churn Analysis  
+🔹 Web Scraping Automation Tool  
+🔹 SQL Business Case Study  
+🔹 House Price Prediction Model  
+
+[(https://portfolio-rituraj.vercel.app/)]
+
+---
+
+## 📈 Current Focus
+- Building real-world data projects  
+- Freelancing as Data Analyst  
+- Creating dashboards & business reports  
+
+---
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/rituraj-g0swami  
+- GitHub: https://github.com/Xta1neR  
+- Email: workwithrituraj@gmail.com 
+
+---
+
+⭐ If you like my work, consider starring my repositories!
